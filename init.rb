@@ -8,9 +8,9 @@ require 'css_patch'
 require 'css_hooks'
 
 
-Redmine::Plugin.register :redmine_css_adder do
-  name 'Redmine Css Adder plugin'
-  author 'Ivan Afonichev'
-  description 'This is a plugin for Redmine'
+Redmine::Plugin.register :redmine_project_themes do
+  name 'Redmine Project Themes'
+  author 'Noah O Neal'
+  description 'Adds ability to theme a project'
   version '0.0.1'
 end
