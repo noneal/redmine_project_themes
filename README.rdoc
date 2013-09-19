@@ -1,3 +1,3 @@
-= css_adder
+= Redmine Project Themes
 
-Description goes here
+Add ability to set a theme per project - similar to the user theme plugin
